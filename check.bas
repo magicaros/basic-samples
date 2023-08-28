@@ -1,4 +1,5 @@
 REM Console only program.
+REM snippet offering 2 methods for checking on what OS the code has been compiled for.
 $CONSOLE:ONLY
 
 REM Casing the _OS$ string to know what OS we are using
